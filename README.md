@@ -6,9 +6,9 @@ Me chamo Erasmo, trabalho como desenvolvedor fullstack ( java web )
 
 stack com a qual trabalho atualmente 
 <p align="center">	
-	<img src="https://github.com/erasmosena/erasmosena/blob/master/assets/postgresql.svg" width="48"/>	
-	<img src="https://github.com/erasmosena/erasmosena/blob/master/assets/java_ee.png" width="48"/>
-  <img src="https://github.com/erasmosena/erasmosena/blob/master/assets/csharp.png" width="48"/>
+	<img src="https://github.com/erasmosena/erasmosena/assets/postgresql.svg" width="48"/>	
+	<img src="https://github.com/erasmosena/erasmosena/assets/java_ee.png" width="48"/>
+  <img src="https://github.com/erasmosena/erasmosena/assets/csharp.png" width="48"/>
 </p>
 <br>
 <br>
