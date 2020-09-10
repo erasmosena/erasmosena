@@ -23,10 +23,10 @@ Projetos, idéias ou apenas mandar um alô? Me envie uma mensagem :) <br>
 </a>
 
 ### Interesses atuais :
-- ⚡ .Net Core
-- ⚡ Flutter
-- ⚡ Angular
-- ⚡ Vue
+⚡ .Net Core
+⚡ Flutter
+⚡ Angular
+⚡ Vue
 
 <!--
 **erasmosena/erasmosena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
