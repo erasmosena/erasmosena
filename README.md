@@ -22,7 +22,7 @@ Projetos, idéias ou apenas mandar um alô? Me envie uma mensagem :) <br>
 	<img src="https://img.shields.io/badge/-Gmail-D54B3D?style=flat-square&logo=Gmail&logoColor=white" />
 </a>
 
-### Interesses atuais :
+### Interesses :
 ⚡ .Net Core
 ⚡ Flutter
 ⚡ Angular
