@@ -14,7 +14,7 @@ stack atual
 <br>
 <br>
 <br>
-Projetos, idéias ou apenas mandar um alô? Me envie uma mensagem :) <br>
+Projetos, ideias ou apenas mandar um alô? Me envie uma mensagem :) <br>
 <a href="https://www.linkedin.com/in/erasmo-sena-9a39022a/" alt="LinkedIn" target="_blank">
 	<img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
