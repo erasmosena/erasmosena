@@ -1,0 +1,22 @@
+{
+	"dias":[
+		{
+			"dia":"15/07/2021",
+			"horarios":[
+				{
+					"horario":"08:00-09:00",
+					"disponível":true
+				}
+			]
+		},
+		{
+			"dia":"16/07/2021",
+			"horarios":[
+				{
+					"horario":"08:00-09:00",
+					"disponível":true
+				}
+			]
+		}
+	]
+}
