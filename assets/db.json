@@ -14,7 +14,7 @@
 			"horarios":[
 				{
 					"horario":"08:00-09:00",
-					"disp":false
+					"disp":true
 				}
 			]
 		}
